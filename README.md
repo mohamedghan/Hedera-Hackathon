@@ -92,7 +92,7 @@ To get started
 you should have a working Node.js with npm and tsc compiler
 * npm
 ```sh
-git clone https://github.com/mohamedghan/Hedera-challenge.git
+git clone https://github.com/mohamedghan/Hedera-ch-repo.git
 cd Hedera-ch-repo
 npm i 
 cd server
