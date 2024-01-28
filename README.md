@@ -106,6 +106,9 @@ tsc && node .\dist\index.js
 cd ..
 npm run dev
 ```
+to login there are two accounts in database:
+username: mohamed ; password: a
+username: chater; password: b
 
 <!-- LICENSE -->
 ## License
