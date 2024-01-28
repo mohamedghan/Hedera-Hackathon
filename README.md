@@ -23,7 +23,7 @@
     <br />
     <a href="#">View Demo</a>
     ·
-    <a href="#">Game Repo</a>
+    <a href="https://drive.google.com/file/d/1QEBaz83Jp1q44b6EBk0fE9pgwMgBSrly/view">Game Repo</a>
     ·
     <a href="https://github.com/mohamedghan/Hedera-challenge/issues">Report Bug</a>
     ·
