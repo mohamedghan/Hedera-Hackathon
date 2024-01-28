@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="./public/img/logo.png" alt="Logo" width="80" height="80">
-  </a>a
+  </a>
 
   <h3 align="center">MetaVersity</h3>
 
@@ -78,11 +78,8 @@ By combining the metaverse and cryptocurrency, MetaVersity aims to democratize a
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Angular][express.js]][express-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,41 +92,21 @@ To get started
 
 ### Prerequisites
 
-you should have a working Node.js with npm
+you should have a working Node.js with npm and tsc compiler
 * npm
 ```sh
-npm install npm@latest -g
-```
-
-### Installation
-
-_To get the demo up and running in your local environment._
-
-1. Clone the repo
-```sh
 git clone https://github.com/mohamedghan/Hedera-challenge.git
-cd Metaversity
+cd Hedera-ch-repo
+npm i 
+cd server
+npm i
+npm i -g tsc
+# launch backend
+tsc; node .\dist\index.js
+# launch frontend dev server
+cd ..
+npm run dev
 ```
-2. Install NPM packages
-```sh
-npm install
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-```sh
-npm start
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 <!-- LICENSE -->
 ## License
@@ -176,9 +153,11 @@ Ghassen Fatnassi - [@chater_marzougui](https://www.linkedin.com/in/ghassen-fatna
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[express.js]: https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=expressjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[express-url]: https://express.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
