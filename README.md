@@ -97,7 +97,7 @@ cd Hedera-ch-repo
 npm i 
 cd server
 npm i
-npm i -g tsc
+npm i -g typescript
 # launch backend (for powershell users)
 tsc; node .\dist\index.js
 # launch backend (for CMD users)
