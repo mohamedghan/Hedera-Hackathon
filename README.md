@@ -89,7 +89,7 @@ To get started
 
 ### Prerequisites
 
-you should have a working Node.js with npm and tsc compiler
+you should have a working Node.js with npm and tsc compiler. to run these commands use <strong>powershell</strong>
 * npm
 ```sh
 git clone https://github.com/mohamedghan/Hedera-ch-repo.git
