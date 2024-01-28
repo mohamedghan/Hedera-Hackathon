@@ -10,8 +10,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./static/img/logo.png" alt="Logo" width="80" height="80">
-  </a>
+    <img src="./public/img/logo.png" alt="Logo" width="80" height="80">
+  </a>a
 
   <h3 align="center">MetaVersity</h3>
 
@@ -62,7 +62,7 @@
 ## About The Project
 
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./static/img/shot.png" alt="Logo" >
+    <img src="./public/img/shot.png" alt="Logo" >
   </a>
 
 In schools today, students face obstacles such as insufficient materials for practical lessons in subjects like physics and chemistry. Overcoming these challenges requires a novel approach, and thus, we suggest the utilization of blockchain technology within the metaverse to enhance educational experiences. 
@@ -97,23 +97,23 @@ To get started
 
 you should have a working Node.js with npm
 * npm
-  ```sh
-  npm install npm@latest -g
-  ```
+```sh
+npm install npm@latest -g
+```
 
 ### Installation
 
 _To get the demo up and running in your local environment._
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/mohamedghan/Hedera-challenge.git
-   cd Metaversity
-   ```
+```sh
+git clone https://github.com/mohamedghan/Hedera-challenge.git
+cd Metaversity
+```
 2. Install NPM packages
-   ```sh
-   npm install
-   ```
+```sh
+npm install
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,9 +122,9 @@ _To get the demo up and running in your local environment._
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-   ```sh
-   npm start
-   ```
+```sh
+npm start
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
