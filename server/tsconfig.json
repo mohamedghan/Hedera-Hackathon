@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "Node16",
+        "moduleResolution": "NodeNext",
+        "target": "ES2021",
+        "sourceMap": true,
+        "outDir": "dist",
+    },
+    "include": ["app/**/*"],
+    "files": ["types.d.ts"]
+}
