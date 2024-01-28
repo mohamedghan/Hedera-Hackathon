@@ -107,9 +107,9 @@ cd ..
 npm run dev
 ```
 to login there are two accounts in database:
-username: mohamed ; password: a
+<strong>username: mohamed ; password: a<br>
 username: chater; password: b
-
+</strong>
 <!-- LICENSE -->
 ## License
 
