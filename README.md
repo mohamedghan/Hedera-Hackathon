@@ -98,8 +98,10 @@ npm i
 cd server
 npm i
 npm i -g tsc
-# launch backend
+# launch backend (for powershell users)
 tsc; node .\dist\index.js
+# launch backend (for CMD users)
+tsc && node .\dist\index.js
 # launch frontend dev server
 cd ..
 npm run dev
