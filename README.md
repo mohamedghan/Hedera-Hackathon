@@ -75,9 +75,6 @@ By combining the metaverse and cryptocurrency, MetaVersity aims to democratize a
 
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![React][React.js]][React-url]
 * [![Angular][express.js]][express-url]
 
@@ -118,7 +115,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- Game Repo Link -->
 ## Game Repo Link
 
-<a href="https://github.com/mohamedghan/Hedera-challenge/issues">Click here to go to the unity game repository</a>
+<a href="https://drive.google.com/file/d/1QEBaz83Jp1q44b6EBk0fE9pgwMgBSrly/view">Click here to go to the unity game repository (Google drive)</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
