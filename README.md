@@ -92,8 +92,8 @@ To get started
 you should have a working Node.js with npm and tsc compiler. to run these commands use <strong>powershell</strong>
 * npm
 ```sh
-git clone https://github.com/mohamedghan/Hedera-ch-repo.git
-cd Hedera-ch-repo
+git clone https://github.com/mohamedghan/Hedera-Hackathon.git
+cd Hedera-Hackathon
 npm i 
 cd server
 npm i
@@ -142,16 +142,16 @@ Ghassen Fatnassi - [@chater_marzougui](https://www.linkedin.com/in/ghassen-fatna
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/mohamedghan/Hedera-ch-repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/mohamedghan/Hedera-ch-repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mohamedghan/Hedera-ch-repo.svg?style=for-the-badge
-[forks-url]: https://github.com/mohamedghan/Hedera-ch-repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/mohamedghan/Hedera-ch-repo.svg?style=for-the-badge
-[stars-url]: https://github.com/mohamedghan/Hedera-ch-repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mohamedghan/Hedera-ch-repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/mohamedghan/Hedera-Hackathon.svg?style=for-the-badge
+[contributors-url]: https://github.com/mohamedghan/Hedera-Hackathon/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mohamedghan/Hedera-Hackathon.svg?style=for-the-badge
+[forks-url]: https://github.com/mohamedghan/Hedera-Hackathon/network/members
+[stars-shield]: https://img.shields.io/github/stars/mohamedghan/Hedera-Hackathon.svg?style=for-the-badge
+[stars-url]: https://github.com/mohamedghan/Hedera-Hackathon/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mohamedghan/Hedera-Hackathon.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/mohamedghan/Hedera-ch-repo.svg?style=for-the-badge
-[license-url]: https://github.com/mohamedghan/Hedera-ch-repo/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/mohamedghan/Hedera-Hackathon.svg?style=for-the-badge
+[license-url]: https://github.com/mohamedghan/Hedera-Hackathon/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
