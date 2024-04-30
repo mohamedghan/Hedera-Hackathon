@@ -134,7 +134,7 @@ Chater Marzougui - [@chater_marzougui](https://www.linkedin.com/in/chater-marzou
 
 Mohamed Bachir Bouaziz - [@med_bachir_bouaziz](https://www.linkedin.com/in/med-bachir-bouaziz-34065b2a5/) - mohamedbachir.bouaziz@supcom.tn<br>
 
-Ghassen Fatnassi - [@chater_marzougui](https://www.linkedin.com/in/ghassen-fatnassi-70ab52283/) - ghassen.fatnassi@supcom.tn
+Ghassen Fatnassi - [@ghassen fatnassi](https://www.linkedin.com/in/ghassen-fatnassi-70ab52283/) - ghassen.fatnassi@supcom.tn
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
